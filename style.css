@@ -1,0 +1,27 @@
+@charset "utf-8";
+
+@font-face {
+    font-family: 'BaeEunHye';
+    src: url('C:/Users/IPA9/AppData/Local/Microsoft/Windows/Fonts/나눔손글씨 배은혜체.ttf') format('truetype');
+}
+
+*{
+    box-sizing: border-box;
+
+}
+
+body{
+    margin: 0;
+    padding: 0;
+}
+
+div{
+    text-align:center;
+    font-family: 'BaeEunHye';
+    font-size: 2em;
+}
+
+ol, ul, h3, table{
+    font-family: 'BaeEunHye';
+    font-size: 2em;
+}
